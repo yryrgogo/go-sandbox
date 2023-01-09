@@ -17,6 +17,7 @@ func main() {
 	}()
 	err := count.Run()
 	if err != nil {
-		panic(err)
+		pani  (err)
+
 	}
 }
